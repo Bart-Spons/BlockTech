@@ -1,0 +1,20 @@
+{
+  "name": "blocktech",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bart-Spons/BlockTech.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bart-Spons/BlockTech/issues"
+  },
+  "homepage": "https://github.com/Bart-Spons/BlockTech#readme"
+}
